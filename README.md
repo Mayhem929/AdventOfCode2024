@@ -4,7 +4,7 @@ program structure
 
 ```python
 def read_input():
-    with open("data/day1.txt") as file:
+    with open("data/day_.txt") as file:
         lines = [i.strip() for i in file.readlines()]        
         return lines
     
